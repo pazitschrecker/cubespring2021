@@ -1,2 +1,2 @@
-# cubespring2021
-Files for cube website, Spring 2021 semester
+# cubefall2020
+Website for CUBE (edition: Fall 2020 semester)
